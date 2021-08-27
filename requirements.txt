@@ -17,4 +17,5 @@ joblib==0.15.1
 jsonify==0.5
 MarkupSafe==1.1.1
 numpy==1.19.0
+pandas>=1.2.4
 gunicorn
