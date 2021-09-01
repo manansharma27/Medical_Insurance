@@ -7,6 +7,11 @@ This project is made with Python and have used Flask as web framework and deploy
 App Link:- <br>
 https://medical-insurance-cost-predict.herokuapp.com/
 <br>
+<br>
+Medical Insurance Cost Power BI Dashboard:- <br>
+https://app.powerbi.com/view?r=eyJrIjoiZmI2NzE5YTItZGM5Ni00NjIwLTg0MzUtNDczZWRlOTFjNTIwIiwidCI6ImNhYTA0ZDNlLTI4NTgtNGM5Ni1iODAyLTYwMWZjYTE5YjkzMiJ9
+<br>
+<br>
 Machine Learning App website visuals:-
 <br>
 <img src = "https://github.com/manansharma27/Medical_Insurance/blob/main/Images/image1.PNG">
