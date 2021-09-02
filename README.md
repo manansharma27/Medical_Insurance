@@ -12,6 +12,21 @@ Medical Insurance Cost Power BI Dashboard:- <br>
 https://app.powerbi.com/view?r=eyJrIjoiZmI2NzE5YTItZGM5Ni00NjIwLTg0MzUtNDczZWRlOTFjNTIwIiwidCI6ImNhYTA0ZDNlLTI4NTgtNGM5Ni1iODAyLTYwMWZjYTE5YjkzMiJ9
 <br>
 <br>
+Technology Used:-
+
+Python
+Flask
+HTML
+Heroku Cloud
+
+Steps taken:-
+Data Collection
+Data Preprocessing
+Outlier Detection
+Exploratory Data Analysis
+Model Building
+Model Deployment in Heroku Cloud using Flask and HTML
+<br><br>
 Machine Learning App website visuals:-
 <br>
 <img src = "https://github.com/manansharma27/Medical_Insurance/blob/main/Images/image1.PNG">
