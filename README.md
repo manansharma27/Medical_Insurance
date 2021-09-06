@@ -13,19 +13,19 @@ https://app.powerbi.com/view?r=eyJrIjoiZmI2NzE5YTItZGM5Ni00NjIwLTg0MzUtNDczZWRlO
 <br>
 <br>
 Technology Used:-
+<br>
+1) Python <br>
+2) Flask <br>
+3) HTML <br>
+4) Heroku Cloud <br> 
 
-Python
-Flask
-HTML
-Heroku Cloud
-
-Steps taken:-
-Data Collection
-Data Preprocessing
-Outlier Detection
-Exploratory Data Analysis
-Model Building
-Model Deployment in Heroku Cloud using Flask and HTML
+Steps taken:-<br>
+1) Data Collection <br>
+2) Data Preprocessing <br>
+3) Outlier Detection <br>
+4) Exploratory Data Analysis <br>
+5) Model Building <br>
+6) Model Deployment in Heroku Cloud using Flask and HTML
 <br><br>
 Machine Learning App website visuals:-
 <br>
