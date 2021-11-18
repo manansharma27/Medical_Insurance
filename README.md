@@ -18,6 +18,7 @@ Technology Used:-
 2) Flask <br>
 3) HTML <br>
 4) Heroku Cloud <br> 
+5) Microsoft Power BI<br>
 
 Steps taken:-<br>
 1) Data Collection <br>
@@ -26,6 +27,7 @@ Steps taken:-<br>
 4) Exploratory Data Analysis <br>
 5) Model Building <br>
 6) Model Deployment in Heroku Cloud using Flask and HTML
+7) Data Analysis DashBoard using Power BI
 <br><br>
 Machine Learning App website visuals:-
 <br>
